@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2efdec-7480-4b9d-a310-2de778ea221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/o_notation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/o_notation/close_package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/o_notation/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/o_notation/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit_must.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/polymorphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o_notation/function_args.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/object_oriented/myclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_oriented/myclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/o_notation/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/o_notation/decorator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

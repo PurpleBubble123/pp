@@ -1,6 +1,6 @@
 # It is a nice day. Let's get start
 __author__ = "boya"
-__date__ =  ""
+__date__ = ""
 
 """
 名词：类、对象、实例、实例化

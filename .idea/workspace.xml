@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2efdec-7480-4b9d-a310-2de778ea221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/object_oriented/import_package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/myclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o_notation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o_notation/close_package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o_notation/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o_notation/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit_must.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/inherit_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inherit/polymorphic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_oriented/myclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_oriented/myclass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="begin" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.import_package">
-    <configuration name="aiml_main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.decorator">
+    <configuration name="close_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/o_notation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aiml_main2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/o_notation/close_package.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="import_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/o_notation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/import_package.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/o_notation/decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="myclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inherit_must" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented/inherit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/myclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/inherit/inherit_must.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inherit_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented/inherit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/quick_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/inherit/inherit_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="polymorphic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented/inherit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/inherit/polymorphic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.import_package" />
-        <item itemvalue="Python.myclass" />
-        <item itemvalue="Python.quick_sort" />
-        <item itemvalue="Python.aiml_main2" />
-        <item itemvalue="Python.regger" />
+        <item itemvalue="Python.decorator" />
+        <item itemvalue="Python.close_package" />
+        <item itemvalue="Python.polymorphic" />
+        <item itemvalue="Python.inherit_order" />
+        <item itemvalue="Python.inherit_must" />
       </list>
     </recent_temporary>
   </component>
@@ -183,5 +192,41 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/o_notation/decorator.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

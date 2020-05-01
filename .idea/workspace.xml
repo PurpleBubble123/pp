@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2efdec-7480-4b9d-a310-2de778ea221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/o_notation/function_args.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/o_notation/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/o_notation/decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/o_notation/function_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/o_notation/function_args.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decorator">
+  <component name="RunManager" selected="Python.function_args">
     <configuration name="close_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +85,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="function_args" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="begin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/o_notation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/o_notation/function_args.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="inherit_must" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inherit_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,32 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented/inherit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/inherit/inherit_order.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polymorphic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="begin" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_oriented/inherit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented/inherit/polymorphic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function_args" />
+        <item itemvalue="Python.tuple" />
+        <item itemvalue="Python.inherit_must" />
         <item itemvalue="Python.decorator" />
         <item itemvalue="Python.close_package" />
-        <item itemvalue="Python.polymorphic" />
-        <item itemvalue="Python.inherit_order" />
-        <item itemvalue="Python.inherit_must" />
       </list>
     </recent_temporary>
   </component>

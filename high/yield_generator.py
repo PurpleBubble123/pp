@@ -2,6 +2,9 @@
 # @Author : Boya
 # @Time   : 01/05/2020 14.09
 
+# 生成器
+
+
 def demo1():
     l = [x for x in range(1000)]
     return  l

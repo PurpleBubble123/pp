@@ -2,6 +2,9 @@
 # @Author : Boya
 # @Time   : 02/05/2020 14.37
 
+# 文件操作
+
+
 def read_file1():
     f = open("exception.py", "r", encoding="UTF-8")
     #print(f.read())  # 一次性读取所有内容，文件很大时会占用很大内存

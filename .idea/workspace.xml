@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2efdec-7480-4b9d-a310-2de778ea221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/high/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/deduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/file_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/high_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/yield_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_thread/dead_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_thread/event_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_thread/processing_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_thread/producer_and_cosumer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/high/file_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/high/file_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/high/yield_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/high/yield_generator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_operation">
-    <configuration name="deduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.producer_and_cosumer">
+    <configuration name="dead_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/high" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log_thread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/high/deduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_thread/dead_lock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="event_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/high" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log_thread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/high/exception.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_thread/event_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="processing_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/high" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log_thread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/high/file_operation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_thread/processing_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="high_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="producer_and_cosumer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/high" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log_thread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/high/high_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_thread/producer_and_cosumer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_operation" />
-        <item itemvalue="Python.deduce" />
-        <item itemvalue="Python.exception" />
+        <item itemvalue="Python.producer_and_cosumer" />
         <item itemvalue="Python.yield_generator" />
-        <item itemvalue="Python.high_function" />
+        <item itemvalue="Python.dead_lock" />
+        <item itemvalue="Python.event_test" />
+        <item itemvalue="Python.processing_test" />
       </list>
     </recent_temporary>
   </component>
@@ -224,8 +224,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/high/file_operation.py</url>
-          <line>41</line>
+          <line>44</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log_thread/producer_and_cosumer.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

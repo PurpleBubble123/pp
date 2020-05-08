@@ -1,0 +1,8 @@
+2020-05-03 14:20:05,539 - DEBUG - This is a debug log
+2020-05-03 14:20:05,539 - INFO - This is a info log
+2020-05-03 14:20:05,539 - WARNING - This is a warning log
+2020-05-03 14:20:05,539 - ERROR - This is a error log
+2020/05/03 14:20:45 - DEBUG - This is a debug log
+2020/05/03 14:20:45 - INFO - This is a info log
+2020/05/03 14:20:45 - WARNING - This is a warning log
+2020/05/03 14:20:45 - ERROR - This is a error log

@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2efdec-7480-4b9d-a310-2de778ea221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/high/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/deduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/file_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/high_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high/yield_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
